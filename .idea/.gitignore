@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/*.xml
+
+!vcs.xml
+!modules.xml
+!Mixin-KT.impl
